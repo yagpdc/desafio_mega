@@ -1,0 +1,15 @@
+.Mega input {
+  font-size: 1.4rem;
+  width: 50px;
+}
+
+.Mega label {
+  margin-right: 10px;
+}
+
+.sortNum {
+  border-radius: 50%;
+  margin: 10px 10px 10px;
+  background-color: yellow;
+  border: 1px solid yellow;
+}
